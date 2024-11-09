@@ -18,74 +18,51 @@
 
 <div align="center">
   ## 🛠 Tech Stack
-</div>
 
-<div align="center">
-  ### 🌐 Languages
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-</div>
+### 🌐 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div align="center">
-  ### 🖥️ Web Technologies
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-</div>
+### 🖥️ Web Technologies
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div align="center">
-  ### ⚙️ Frameworks & Libraries
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-</div>
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<div align="center">
-  ### 🛠 Tools
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-</div>
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ---
 
-<div align="center">
-  ## 📊 GitHub Activity
-</div>
+## 📊 GitHub Activity
 
-<div align="center">
-  ### 🔥 GitHub Streak
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faracutrisfa&theme=radical)](https://git.io/streak-stats)
-</div>
+### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faracutrisfa&theme=radical)](https://git.io/streak-stats)
 
-<div align="center">
-  ### 🌟 Top Languages
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faracutrisfa&layout=compact&theme=radical)](https://github.com/faracutrisfa)
-</div>
+### 🌟 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faracutrisfa&layout=compact&theme=radical)](https://github.com/faracutrisfa)
 
-<div align="center">
-  ### 📈 GitHub Stats
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faracutrisfa&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)](https://github.com/faracutrisfa)
-</div>
+### 📈 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faracutrisfa&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)](https://github.com/faracutrisfa)
 
 ---
 
-<div align="center">
-  ## 🤝 Let's Connect
-</div>
+## 🤝 Let's Connect
 
-<div align="center">
-  I'm always open to collaborations and discussions. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cut-risfa-zuhra-5b2788289/), follow me on [Instagram](https://www.instagram.com/cutrisfz_/), or email me at [faracutrisfa@gmail.com](mailto:faracutrisfa@gmail.com).
-</div>
+I'm always open to collaborations and discussions. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cut-risfa-zuhra-5b2788289/), follow me on [Instagram](https://www.instagram.com/cutrisfz_/), or email me at [faracutrisfa@gmail.com](mailto:faracutrisfa@gmail.com).
 
 <br><br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="kyubey gif"/>
 </div>
-
 <br><br>
 
-<div align="center">
-  ⭐ From [Cut Risfa Zuhra](https://github.com/faracutrisfa)
+⭐ From [Cut Risfa Zuhra](https://github.com/faracutrisfa)
 </div>
